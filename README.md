@@ -78,7 +78,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -92,7 +92,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Technologies Used
+## Technologies Used
 
 - **Gemini 2.0 Flash** (Vertex AI) — NL to SQL, insights
 - **Google BigQuery** — Data source
