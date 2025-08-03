@@ -61,7 +61,7 @@ graph TD
    WHERE requested_datetime BETWEEN '2022-01-01' AND '2022-12-31'
      AND service_subtype = 'Graffiti'
    ```
-3. Validation Passes ✅
+3. Validation Passes 
 4. SQL Executed in BigQuery
 5. Response JSON Parsed → Insight:
    > "There were 45,873 graffiti removal requests made in 2022."
@@ -102,7 +102,7 @@ streamlit run app.py
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 -  Supports complex user questions with multiple filters
 -  Gemini prompts optimized for few-shot schema understanding
@@ -111,7 +111,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Future Enhancements
+## Future Enhancements
 
 - Support more public datasets via dropdown
 - Store user queries and responses for feedback learning
